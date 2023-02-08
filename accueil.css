@@ -1,0 +1,135 @@
+.container{
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/arrière_plan.png");
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.tonton{
+    columns: 2;
+    padding-right: -15px;
+    padding-left: 55px;
+}
+
+.link{
+    text-align: right;
+    word-spacing: 3em;
+}
+
+.logoRS{
+    text-align: left;
+    vertical-align: top;
+}
+
+.partone{
+    position: 20px;
+}
+
+.partone h1, h3, p{
+    text-align: left;
+}
+
+.partone{
+    text-align: right;
+
+}
+
+.bande{
+    columns: 3;
+    background-color: #032058;
+    height: 130%;
+    spacin
+}
+
+
+
+.dev{
+    columns: 2;
+}
+
+.portrait{
+    
+}
+
+.contact{
+    background-image: url("C:Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/Pantherhome7.png");
+    justify-content: center;
+    padding-right: 100px;
+    display: block;
+    text-decoration: center;
+    height: 100px;
+    border-spacing: 15%;
+}
+
+footer{
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/back_footer (1).png");
+    columns: 4;
+}
+
+            
+.btn{           /*Les boutons*/
+    background-color: #9e91b7;
+    border-radius: 38px; /* Coins arrondis */
+    text-align: center; /* Centrer le texte */
+    width: 147px;
+    height: 40px;
+    }
+
+.btn a{
+    text-decoration: none; /* Supprimer le soulignage du lien */
+    line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+    color: #fff; /* Couleur du texte blanche */
+}
+
+.btn:hover {
+    background-color: #f2cef2; /* On modifie la couleur du fond au passage de la souris */ 
+}
+
+.btn1{
+    background-color: #3D2DA6;
+    border-radius: 38px; /* Coins arrondis */
+    text-align: center; /* Centrer le texte */
+    width: 147px;
+    height: 40px;
+}
+.btn1 a{
+    text-decoration: none; /* Supprimer le soulignage du lien */
+    line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+    color: #fff; /* Couleur du texte blanche */
+}
+
+.btn1:hover {
+    background-color: #1202f5; /* On modifie la couleur du fond au passage de la souris */ 
+}
+
+
+
+
+.txt{
+    border-radius: 30em;
+    background-color: #fff;
+    border-bottom: 0px;
+    width: 200px;
+    height: 40px;
+}
+
+.boite{
+  border-radius: 15%;
+  width: 200px;
+  height: 250px;
+  background-color: #fff;
+}
+
+h1, h3, h4, h5{
+    color: #f2cef2;
+}
+
+
+p{
+    color: #fff
+}
+
+.loop:hover{
+    background-color: #fff;
+}

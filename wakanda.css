@@ -1,0 +1,148 @@
+body{           /*Taille autu-ajustante*/
+    size-adjust: auto;
+}
+
+header{         /*Arrière-plan du contenu de header*/
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/arrière_plan (1).png");
+}
+
+.imgmarvel{         /*Justifier le contenu de la div à gauche*/
+    text-align: left;
+}
+
+.link{         /*Justifier le contenu de la div à droite*/
+    text-align: right ;
+    color: #3d2da6;
+    word-spacing: 3em;
+    padding-right: 40px;
+}
+
+.intro{         /*Arrière-plan, taille et positionnement du contenu de la div*/
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imagewakanda/Pantherwakanda1.png");
+    background-size: cover;
+    height: 800px;
+    width: 104%;
+    color: black;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    list-style: none;
+    
+}
+
+.intro .overlay {
+    background-color: (0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.intro p{         /*Couleur du contenu de la balise <p>*/
+    position: ;
+    color: #9e91b7;
+}
+
+
+.bckgrd{         /*Pour l'arrière-plan Pantherwaakanda2*/
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imagewakanda/Pantherwakanda2.png");
+    opacity: 100%;
+}
+
+.container{
+    columns: 2;         /* Séparation en é colonnes et arrière-plan*/
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/arrière_plan.png");
+}
+
+.container p, h4{         /*Mise en page de la div*/
+    margin: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 5%
+}
+
+.box{         /*Création, positionnement et mise en page de la div*/
+    position: relative;
+    display: block;
+    padding-bottom: 30%;
+    background-color: #3d2da6;
+    width: 73%;
+    letter-spacing: 45%;
+    height: 4%;
+    margin-left: 10%;
+}
+
+.box p a{
+    color: white;
+}
+
+.box::after{
+    display: block;
+    padding-bottom: 30%;
+
+}
+
+            /*Pied de page*/
+footer{
+    background-image: url("C:/Users/killi/OneDrive/Bureau/ExamenSayna/imageaccueil/back_footer.png");
+    columns: 3 ;
+}
+
+.blabla{         /*Ecriture dans le footer*/
+    text-align: center;
+}
+
+.pdp{         /*Intégartion des images footer 3,4,5 et 6*/
+    text-align: right;
+    
+}
+
+.conditions{         /*Dernière ligne du footer */
+    text-align: right;
+    margin-bottom: 100%;
+}
+
+
+
+p{         /*Couleur du contenu des balises <p>*/
+    color: #9e91b7;
+}
+
+h1{         /*Couleur du contenu de la balises <h1>*/ 
+    color: #9e91b7;
+    font-family: ;
+    display: flex;
+    align-items: ;
+    justify-content: 
+}
+
+h3{         /*Couleur du contenu de la balises <h3>*/
+    color: #9e91b7;
+}
+
+h4{         /*Couleur  du contenu de la balises <h4>*/
+    color: #9e91b7;
+}
+
+h5{         /*Couleur et forme du contenu de la balises <h5>*/
+    color: #9e91b7;
+    letter-spacing: 38%;
+    size: 22px;
+}
+
+body{
+    animation;
+}
+
+.fade-in-image{
+    fade
+}
+
+
+.loop:hover{
+    background-color: #fff;
+}
+
+
